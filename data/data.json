@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "picture": "https://i.ibb.co/ZYzRd8q/js.png",
+      "price": 22,
+      "name": "Learn Javascript",
+      "details": "Learn javascript online and supercharge your web design with this Javascript for beginners training course."
+    },
+    {
+      "id": 2,
+      "picture": "https://i.ibb.co/MgQ8Fn4/React.png",
+      "price": 22,
+      "name": "React basic",
+      "details": "The quick guide to learn basic concepts and workflow of how to build React app"
+    },
+    {
+      "id": 3,
+      "picture": "https://i.ibb.co/q7gF4zw/nodejs.webp",
+      "price": 33,
+      "name": "Learn NodeJS",
+      "details": "Dive deep under the hood of NodeJS. Learn V8, Express, the MEAN stack, core Javascript concepts, and more."
+    },
+    {
+      "id": 4,
+      "picture": "https://i.ibb.co/TRR8pFc/mongodb.png",
+      "price": 24,
+      "name": "Learn MongoDB",
+      "details": "Master MongoDB database using JavaScript Mongo Shell, Robo 3T (Robomongo) and MongoDB Compass"
+    },
+    {
+      "id": 5,
+      "picture": "https://i.ibb.co/HxKshJB/python.png",
+      "price": 33,
+      "name": "Learn Python",
+      "details": "Learn A-Z everything about Python, from the basics, to advanced topics like Python GUI, Python Data Analysis, and more!"
+    },
+    {
+      "id": 6,
+      "picture": "https://i.ibb.co/d0Hbq9G/typescript.png",
+      "price": 33,
+      "name": "Learn TypeScript",
+      "details": "Boost your JavaScript projects with TypeScript: Learn all about core types, generics, TypeScript + React or Node & more!"
+    }
+  ]
